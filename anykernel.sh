@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Exynos9820 Kernel
+kernel.string=Frosty Kernel
 do.devicecheck=1
 do.modules=0
 do.systemless=1
